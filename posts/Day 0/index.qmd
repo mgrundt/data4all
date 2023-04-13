@@ -1,0 +1,17 @@
+---
+title: "Day 0: The Why, the How and the Goal?"
+
+author: "Michael Grundt"
+
+date: "2023-04-12"
+
+categories: [news]
+
+image: "shuttle.png"
+---
+
+## The Why
+
+## The How
+
+## The Goal
