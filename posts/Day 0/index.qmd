@@ -12,48 +12,35 @@ image: "shuttle.png"
 
 ## The Why
 
-I am into computers since i was giftd my first 486 DX 40Mhz in 1993. Most of the time i played
-video games like Monkey Island, Dune 2 RTS, Sam & Max etc. Besides that i was always curious about the coding side, wanted to glimpse behind the curtain. But i never did the serious step, like getting a degree in computer science or begin with coding on my own. May be i was looking for an easy way.
+I am into computers since i was gifted my first 486 DX 40Mhz in 1993. Most of the time i played video games like Monkey Island, Dune 2 RTS, Sam & Max etc. Besides that i was always curious about the coding side, wanted to glimpse behind the curtain. But i never did the serious step, like getting a degree in computer science or begin with coding on my own. May be i was looking for an easy way.
 
-As life went on, i studied economics with strong interest in the "number crushing" side of it. But somewhere in my mind there were always this little itch to code to make the computer do what i
-want.
+As life went on, i studied economics with strong interest in the "number crushing" side of it. But somewhere in my mind there were always this little itch to code to make the computer do what i want.
 
 The years passed and i got jobs, built a family. Besides i bought tons of books about coding which i never read, tried myriads of tutorials and forgot all the content and bought to many Udemy Courses which i never started.
 
 I somehow never get to point, where it flows.
 
-It was and is frustrating...but i never lost the motivation to get it. I think i am stuck in
-tutorial hell right now or maybe since a couple of years.
+It was and is frustrating...but i never lost the motivation to get it. I think i am stuck in tutorial hell right now or maybe since a couple of years.
 
 This is my newest try to escape tutorial hell and finally get something to work. Wish me luck!
 
 ## The How
 
-Inspired by the "100 Days of Code" - Challenges, i will try to make it through
-Datacamp's "Data Scientist with R" - Career Track. It's made of 22 Courses with around 88h workload.
-Additionally the SQL Fundamentals Track is recommended, which contians another
-6 courses with 22h of workload. So we have a 110h of workload for the
-challenge. At the end i will take the exam and hopefully pass it. ;)
+Inspired by the "100 Days of Code" - Challenges, i will try to make it through Datacamp's "Data Scientist with R" - Career Track. It's made of 22 Courses with around 88h workload. Additionally the SQL Fundamentals Track is recommended, which contians another 6 courses with 22h of workload. So we have a 110h of workload for the challenge. At the end i will take the exam and hopefully pass it. ;)
 
-### Why R? 
+### Why R?
 
-Good Question. It's simply feels right for me. This might sound a little weird, but
-i tried Python, Javascript, Java, C# etc. And somehow the R world (as far as i
-have discovered it) feels right. Maybe it's the economics background, i dont
-know.
+Good Question. It's simply feels right for me. This might sound a little weird, but i tried Python, Javascript, Java, C# etc. And somehow the R world (as far as i have discovered it) feels right. Maybe it's the economics background, i dont know.
 
-I like Python too, but a lot of things in R feel easier at least for me. Beginning with the IDE
-(RStudio) and the bulk of free availabe learning recources like "R for Data Science", Posit's Tutorials just to name a tiny tip of the iceberg.
+I like Python too, but a lot of things in R feel easier at least for me. Beginning with the IDE (RStudio) and the bulk of free availabe learning recources like "R for Data Science", Posit's Tutorials just to name a tiny tip of the iceberg.
 
 ### Why Data Scientist
 
 Like i mentioned earlier, i am kind of into the "number crushing" faction, so it seems like a good compromise between the two areas of coding and numbers. First and foremost, i like the framework of the curriculum, so i have at least the feeling not missing important topics. As i am new to the challenges field, making a plan out of the curriculum which culminates in taking the exam is an additional attraction.
 
-Well, one can argue, that Datacamp is not free at all. Yes. But as a part of my tries to escape the
-hell, i bought a membership ;).
+Well, one can argue, that Datacamp is not free at all. Yes. But as a part of my tries to escape the hell, i bought a membership ;).
 
-Anyway, i made a plan for the 100 Days of Code in R, which is related to the above mentioned
-career track. You can see it in the table below. I will try to follow it and stick to the two main rules of the 100 Days Challenge.
+Anyway, i made a plan for the 100 Days of Code in R, which is related to the above mentioned career track. You can see it in the table below. I will try to follow it and stick to the two main rules of the 100 Days Challenge.
 
 1.  **At least 1 hour of coding every day**
 2.  **Tweeting my progress with #100DaysOfCode**
@@ -63,7 +50,7 @@ Additionally there will be blog posts on this site with details on my journey.
 ### The Plan (Day 1 - 10)
 
 | Day | Topic (Course Name)           | To Do                                      |
-|----------|-------------------------------|-------------------------------|
+|----------------|----------------------------|----------------------------|
 | 1   | Intermediate R\*              | Follow the Course                          |
 | 2   |                               | Follow the Course                          |
 | 3   |                               | Follow the Course                          |
@@ -81,8 +68,7 @@ Additionally there will be blog posts on this site with details on my journey.
 
 ## The Goal
 
-The goal is to escape the hell by sticking to the challenge. At the end, i hope to pass the
-certification exam of the career track. Again, wish me luck. Thanks.
+The goal is to escape the hell by sticking to the challenge. At the end, i hope to pass the certification exam of the career track. Again, wish me luck. Thanks.
 
 Even before the start, by wirting this blog post, my brain keeps telling me:
 
