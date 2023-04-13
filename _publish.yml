@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: d86b138a-7397-46da-923e-1b70070f9196
+      url: 'https://data4all.net'
