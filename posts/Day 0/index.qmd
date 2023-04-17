@@ -12,7 +12,7 @@ image: "shuttle.png"
 
 ## The Why
 
-I am into computers since i was gifted my first 486 DX 40Mhz in 1993. Most of the time i played video games like Monkey Island, Dune 2 RTS, Sam & Max etc. Besides that i was always curious about the coding side, wanted to glimpse behind the curtain. But i never did the serious step, like getting a degree in computer science or begin with coding on my own. May be i was looking for an easy way.
+I am into computers since i was gifted my first 486 DX 40Mhz in 1993. Most of the time i played video games like Monkey Island, Dune 2 RTS, Sam & Max etc. Besides that i was always curious about the coding side, wanted to glimpse behind the curtain. But i never did the serious step, like getting a degree in computer science or begin with coding on my own. Maybe i was looking for an easy way.
 
 As life went on, i studied economics with strong interest in the "number crushing" side of it. But somewhere in my mind there were always this little itch to code to make the computer do what i want.
 
@@ -26,21 +26,23 @@ This is my newest try to escape tutorial hell and finally get something to work.
 
 ## The How
 
-Inspired by the "100 Days of Code" - Challenges, i will try to make it through Datacamp's "Data Scientist with R" - Career Track. It's made of 22 Courses with around 88h workload. Additionally the SQL Fundamentals Track is recommended, which contians another 6 courses with 22h of workload. So we have a 110h of workload for the challenge. At the end i will take the exam and hopefully pass it. ;)
+Inspired by the "100 Days of Code" - Challenges, i will try to make it through Hadley Wickhams's "R for Data Science, 2nd" and afterwards "Mastering Shiny" by the same author. I've made a rough plan to fit the content in the 100 Days of Code -Schema.
 
-### Why R?
+#### Why R?
 
 Good Question. It's simply feels right for me. This might sound a little weird, but i tried Python, Javascript, Java, C# etc. And somehow the R world (as far as i have discovered it) feels right. Maybe it's the economics background, i dont know.
 
 I like Python too, but a lot of things in R feel easier at least for me. Beginning with the IDE (RStudio) and the bulk of free availabe learning recources like "R for Data Science", Posit's Tutorials just to name a tiny tip of the iceberg.
 
-### Why Data Scientist
+#### Why the Books?
 
-Like i mentioned earlier, i am kind of into the "number crushing" faction, so it seems like a good compromise between the two areas of coding and numbers. First and foremost, i like the framework of the curriculum, so i have at least the feeling not missing important topics. As i am new to the challenges field, making a plan out of the curriculum which culminates in taking the exam is an additional attraction.
+Like i mentioned earlier, i am kind of into the "number crushing" faction and web dev, so the field of "Data Science" in combination with Shiny seems like a good compromise between the two areas of coding and numbers.
 
-Well, one can argue, that Datacamp is not free at all. Yes. But as a part of my tries to escape the hell, i bought a membership ;).
+First and foremost, i like the topics in the books and the authors style, so i have at least the feeling not missing important topics. I'de like to learn proper groundings of the field (hence "R for Data Science") and afterwards try to put them into Web Apps (Hi, "Mastering Shiny"!).
 
-Anyway, i made a plan for the 100 Days of Code in R, which is related to the above mentioned career track. You can see it in the table below. I will try to follow it and stick to the two main rules of the 100 Days Challenge.
+The resources are freely availabe on the web, which is a huge plus! Thank you Mr WIckham and Posit for the great content.
+
+Anyway, i made a plan for the 100 Days of Code in R, which is related to the above mentioned resources. You can see it in the table below. I will try to follow it and stick to the two main rules of the 100 Days Challenge. I there are changes in the plan and there will be changes, i will adjust it accordingly.
 
 1.  **At least 1 hour of coding every day**
 2.  **Tweeting my progress with #100DaysOfCode**
@@ -49,28 +51,39 @@ Additionally there will be blog posts on this site with details on my journey.
 
 ### The Plan (Day 1 - 10)
 
-| Day | Topic (Course Name)           | To Do                                      |
-|----------------|----------------------------|----------------------------|
-| 1   | Intermediate R\*              | Follow the Course                          |
-| 2   |                               | Follow the Course                          |
-| 3   |                               | Follow the Course                          |
-| 4   |                               | Mini-Project related to the Course Content |
-| 5   | Introduction to the tidyverse | Follow the Course                          |
-| 6   |                               | Follow the Course                          |
-| 7   |                               | Follow the Course                          |
-| 8   |                               | Mini-Project related to the Course Content |
-| 9   | Data Manipulation with dplyr  | Follow the Course                          |
-| 10  |                               | Follow the Course                          |
-| 11  |                               | Follow the Course                          |
-| 12  |                               | Mini-Project related to the Course Content |
-
-\*: As i am trying this for a little time now, i know enough about the basics of the R Syntax. So i decided to start with the second Course "Intermediate R".
++-----+---------------------+------------------------------------+
+| Day | Topic (Course Name) | To Do                              |
++=====+=====================+====================================+
+| 1   | R for Data Science  | 1.  Introduction                   |
++-----+---------------------+------------------------------------+
+| 2   |                     | 2.  Data visualization             |
++-----+---------------------+------------------------------------+
+| 3   |                     | 3.  Workflow: basics               |
++-----+---------------------+------------------------------------+
+| 4   |                     | 4.  Data Transformation            |
++-----+---------------------+------------------------------------+
+| 5   |                     | 5.  Workflow: code style           |
++-----+---------------------+------------------------------------+
+| 6   |                     | 6.  Data tidying                   |
++-----+---------------------+------------------------------------+
+| 7   |                     | 7.  Workflow: scripts and projects |
++-----+---------------------+------------------------------------+
+| 8   |                     | 8.  Data Import                    |
++-----+---------------------+------------------------------------+
+| 9   |                     | 9.  Workflow: getting help         |
++-----+---------------------+------------------------------------+
+| 10  |                     | 10. Layers                         |
++-----+---------------------+------------------------------------+
+| 11  |                     | 11. Exploratory data analysis      |
++-----+---------------------+------------------------------------+
+| 12  |                     | 12. Communication                  |
++-----+---------------------+------------------------------------+
 
 ## The Goal
 
 The goal is to escape the hell by sticking to the challenge. At the end, i hope to pass the certification exam of the career track. Again, wish me luck. Thanks.
 
-Even before the start, by wirting this blog post, my brain keeps telling me:
+Even before the start, by writing this blog post, my brain keeps telling me:
 
 "Ah, let's try this and that too!",
 
