@@ -1,0 +1,13 @@
+---
+title: "Day 1: R4DS - Introduction"
+
+description: "Report about Chapter 1: Introduction of Hadley Wickhams's book R for Data Science"
+
+author: "Michael Grundt"
+
+date: "2023-04-17"
+
+categories: [R for Data Science, R, challenge]
+
+draft: true
+---
